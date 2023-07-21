@@ -8,4 +8,4 @@
 -анимации в css
 -использование БЭМ структуры
 
-Ссылка на сайт: https://primel88.github.io/russian-travel/
+Ссылка на сайт: https://primel88.github.io/pro/
